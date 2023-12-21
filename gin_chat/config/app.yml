@@ -1,0 +1,2 @@
+mysql:
+  dns: root:123456@tcp(120.46.66.248:33306)/ginchat?charset=utf8mb4&parseTime=True&loc=Local
